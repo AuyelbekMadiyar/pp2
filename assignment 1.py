@@ -1,2 +1,1 @@
-x = int(input())
-print(x % 10)
+print(len(set(input().split())))
